@@ -1,2 +1,2 @@
-# Restaraunt-menu
+# Restaurant-menu
 
